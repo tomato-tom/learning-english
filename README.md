@@ -361,7 +361,9 @@
 
 ## 网站博客
 
+- [English e-Reader](https://english-e-reader.net/) - 一个完全免费的英语分级读物网站
 - [Lingoclip](https://lingoclip.com/) - 享受通过音乐学习语言
+- [Run To English](https://www.runtoenglish.com/) - 一个以学习新概念英语为核心的在线英语学习平台
 - [LingoHut](https://www.lingohut.com/zh) - 你可以用自己的母语来学习超过45种语言
 - [英语语法网](http://www.yygrammar.com/) - 清晰的语法讲解，语法爱好者福音
 - [Visuwords](https://visuwords.com/) - 一个生动的交互式英语词典，可以将词语之间的关系以图形化的方式展示出来
