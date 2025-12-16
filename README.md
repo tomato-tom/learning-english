@@ -215,6 +215,7 @@
 - [RealLife English](https://www.youtube.com/@RealLifeEnglish1) - 频道每周都会制作新课程，帮你走出教室，自然自信地说英语
 - [English TV](https://www.youtube.com/@englishtvhd) - 为全球英语学习者提供免费的综合性英语教育资源
 - [Learn English with Rebecca](https://www.youtube.com/@engvidrebecca) - 提供从基础到高级、涵盖语法、词汇、发音、商务英语和考试准备等全面且免费的英语学习资源
+- [AudioBook Spot](https://www.youtube.com/@AudioBookSpot1) - 专门分享励志和个人成长类的英文有声书内容
 
 ### 学习视频 📺
 
