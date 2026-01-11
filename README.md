@@ -216,6 +216,8 @@
 - [English TV](https://www.youtube.com/@englishtvhd) - 为全球英语学习者提供免费的综合性英语教育资源
 - [Learn English with Rebecca](https://www.youtube.com/@engvidrebecca) - 提供从基础到高级、涵盖语法、词汇、发音、商务英语和考试准备等全面且免费的英语学习资源
 - [AudioBook Spot](https://www.youtube.com/@AudioBookSpot1) - 专门分享励志和个人成长类的英文有声书内容
+- [British Council | English](https://www.youtube.com/@britishcouncilenglish) - 提供短小精悍的英语微课和20多分钟深度节目
+- [Daily English Conversation](https://www.youtube.com/@DailyEnglishConversation) - 各种日常英语对话的磨耳朵训练陪睡
 
 ### 学习视频 📺
 
