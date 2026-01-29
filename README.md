@@ -322,6 +322,7 @@
 - [Word Whomp](https://www.pogo.com/) - 各种免费的在线游戏,快速思考并创造尽可能多的单词
 - [Human Brain Cloud](https://www.humanbraincloud.com/) - 一款大型多人词语联想游戏，它既简单又复杂
 - [itch](https://itch.io/) - 大量英语游戏游玩下载平台，不仅可以下载还有很多可以浏览器玩耍
+- [ztype](https://zty.pe/) - 挺带感的英语打字射击游戏
 
 ### 单机游戏 🎮
 
