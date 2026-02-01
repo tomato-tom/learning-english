@@ -41,7 +41,6 @@
 - [Cloud English](https://www.youtube.com/@CloudEnglish/featured) - 話す速度が適度で、初心者に最適
 - [Easy English Podcast](https://open.spotify.com/show/0zdSWbiJYKbWfhHrizj5wA?si=XXY_K48AR2WzkA33XTE93Q) - 段階的で内容が軽く、リソース豊富な英語学習ポッドキャスト
 - [Coffee Break English](https://coffeebreaklanguages.com/english/) - 各エピソード約15分、初心者と中級英語学習者向けに設計
-- [Simple English](https://www.youtube.com/@simpleenglishforbeginners) - 楽しく効果的な英語学習のコツと方法の共有に焦点を当て、B1レベル程度のリスニング内容で耳を慣らす
 - [Luke's English Podcast](https://teacherluke.co.uk/) - プロの英語教師による
 - [VOA Learning English](https://learningenglish.voanews.com/podcasts) - Voice of America (VOA) はアメリカ英語を学びたい人向けに多数のポッドキャストを提供
 - [6 Minute English](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english) - 短く効率的な英語レッスン
@@ -162,7 +161,6 @@
 - [Julian Northbrook](https://www.youtube.com/@juliannorthbrook) - イギリス英語の発音で英語を上手く話す方法を教える
 - [EngFluent](https://www.youtube.com/@engfluenttv) - 非ネイティブスピーカーが口語表現を素早く向上させることに特化、丸暗記に別れを告げ、英語を流暢に表現できるようにする
 - [Learn English with TV Series](https://www.youtube.com/c/LearnEnglishWithTVSeries) - アメリカドラマで英語を学ぶ
-- [mmmEnglish](https://www.youtube.com/@mmmEnglish_Emma) - オーストラリア英語、実用的な口語表現
 - [ENGLISH with James](https://www.youtube.com/@engvidJames) - 深い文法教育、学術的ライティングスキル
 - [English with Emma](https://www.youtube.com/@engvidEmma) - アメリカの日常英語、地道的な表現などを教える
 - [EnglishAnyone](https://www.youtube.com/@EnglishAnyone) - 教室の黒板を利用して流暢なスピーキングテクニックを教え、素早く上達する方法
@@ -187,7 +185,6 @@
 - [英語うさぎ](https://www.youtube.com/@yingyutu/featured) - 試験対策に適した英語知識を共有
 - [Brat TV](https://www.youtube.com/@brat/featured) - 非常に実用的な口語情景映像チャンネル、用語・文が複雑ではない
 - [Club James Studios](https://www.youtube.com/@ClubJamesStudios/featured) - チャンネルは英語文法に関するチュートリアルを提供
-- [Brian Wiles](https://www.youtube.com/@BrianWilesQuizzes/featured) - 英語学習のコツと様々な英語知識を共有
 - [Cool History Bros](https://www.youtube.com/@CoolHistoryBros/featured) - 英語アニメーションで中国その他の地域の面白い神話、伝説、歴史物語を語る
 - [EngFluent](https://www.youtube.com/@engfluenttv) - リスニング、スピーキング、リーディング、ライティングに関する英語学習法を教える
 - [Steve Kaufmann](https://www.youtube.com/@thelinguist) - 新しい言語の学び方を教える、ご老人はすでに20言語を習得
@@ -246,11 +243,8 @@
 
 - [Netflix](https://www.netflix.com/) - サブスクリプション、大量の英語映画とテレビドラマ、対応する字幕あり
 - [Amazon Prime Video](https://www.primevideo.com/offers/nonprimehomepage/ref=dv_web_force_root) - サブスクリプション、英語映画とオリジナルコンテンツを含む
-- [英語吹替部](https://mobile.edatribe.com/) - 大量の英語吹替アニメサイトを含む
 - [Cineby](https://www.cineby.app/) - 無料英語映画/テレビドラマ/アニメ/TV番組
 - [Bitcine](https://www.bitcine.app/) - 無料英語映画/テレビドラマ/アニメ/TV番組
-- [Freek](https://freek.to/) - 無料英語映画/テレビドラマ/アニメ/TV番組（広告あり）
-- [Nunflix](https://nunflix.org/) - 無料英語映画/テレビドラマ/アニメ/TV番組（広告あり）
 - [Plex](https://watch.plex.tv/) - 大量の英語映画とテレビ番組を無料で視聴できるストリーミングプラットフォーム
 - [Youtube映像エリア](https://www.youtube.com/feed/storefront) - Youtube自体にも無料で視聴できる大量の映像がある
 - [点 点 字幕 搜索](https://www.samfunny.com/) - アメリカドラマとイギリスドラマ愛好家に字幕リソースを提供する専門サイト
@@ -285,7 +279,6 @@
 - [誰もが英語を使える](https://github.com/ZuodaoTech/everyone-can-use-english) - 著者李笑来が書いたオープンソースブック、人々が実用的で効率的な方法で英語を学ぶのを助けることを目的とする
 - [新概念学習ノート共有](https://github.com/andylee1890/NewConceptEnglish) - 学習過程で整理・記録した学習資料
 - [Longreads](https://longreads.com/) - 長編良質記事に特化したサイト、英語学習に大きな助けとなる
-- [English Short Stories for Beginners](https://www.english-for-students.com/Short-Stories.html) - 英語学習者向けに特別に書かれた短文を提供
 - [American Literature](https://americanliterature.com/) - サイトは大量のクラシック文学作品を提供、しかも文法・用語が簡単
 - [Webnovel](https://www.webnovel.com/) - 大量の英語小説が読める、エッチな英語小説コンテンツもある
 - [MagazineLib](https://magazinelib.com/) - 無料雑誌PDFダウンロードサイト
@@ -301,7 +294,6 @@
 - [Manga Plus](https://mangaplus.shueisha.co.jp/updates) - 日本漫画英語プラットフォーム、無料読書を提供
 - [MangaPanda](https://mangapanda.onl/) - 無料英語漫画オンライン読書サイト、ワンピース、ナルトなどの英語版漫画を含む
 - [MangaDex](https://mangadex.org/) - オンライン英語漫画閲覧サイト
-- [Bato](https://bato.to/) - 無料のオンライン漫画ブックサイト。漫画グループとフォーラムも設け、最新リリースと更新に関する即時情報を提供
 
 ## ビデオゲーム
 
@@ -386,7 +378,6 @@
 - [EnglishBanana](https://www.englishbanana.com/) - このサイトは英語および第二言語としての英語（ESL）の教授・学習のために、4000ページ以上の無料印刷可能なリソースを提供しています。また、英語レッスンブック、ポッドキャスト、その他多くの無料リソースも無料で提供しています。
 - [engoo](https://engoo.com/app/materials/en) - サイト内のmaterialsセクションで非常に精巧な教材コースを提供しており、各レベルの英語学習者に適しています。レベルと好みに基づいて関連する学習資料を検索できます。
 - [Shana Project](https://www.shanaproject.com/) - 無料で英語吹き替えアニメを提供するダウンロードサイト。
-- [English Reader](https://read.english-reader.com/) - 英語読書サイト、ワンクリックで単語検索、朗読、翻訳、新出単語管理が可能。
 - [TV garden](https://tv.garden/) - このサイトでは世界中の国のテレビ局を視聴できる。
 - [Froniters for young minds](https://kids.frontiersin.org/) - 中には大量の科学啓蒙記事とフルカラーの美しい英語電子書籍PDF版が無料ダウンロード可能で、英語の難易度はすべてB1-B2。
 - [AIで学ぶ新概念英語](https://learnenai.com/) - 新概念英語を学ぶサイト。語彙分析、文法・文型解析、中英対照。
@@ -421,7 +412,6 @@
 - [@ajhogeofficial](https://x.com/ajhogeofficial)
 - [@duolingo](https://x.com/duolingo)
 - [@EnglishClub](https://x.com/EnglishClub)
-- [@monicats](https://x.com/monicats)
 
 ### Bilibili ʙ
 
